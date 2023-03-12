@@ -3,6 +3,7 @@
 
 - Rajneesh Kushwaha
 - Sanyam Jain
+- Ayushi Mohta
 
 # Getting Started with Create React App
 
